@@ -1,1 +1,1 @@
-control.log("hello");
+control.log("test");
